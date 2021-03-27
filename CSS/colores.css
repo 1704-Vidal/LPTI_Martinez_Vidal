@@ -1,0 +1,52 @@
+*{
+    padding:0;
+    margin:0;
+    color:#141514;
+   text-align: center;
+
+
+}
+
+html, body{
+    background-color: transparent;
+    background-image: url(https://www.indoorgardenshop.eu/image/cache/data/Viola-white-400x400-225x225.jpg);
+    
+}
+
+.main-container{
+    border:4px solid #9e96e6;
+    border-radius: 10px;
+    margin: 2rem;
+    background-color: #f3ea64cb;
+    text
+    
+    
+}
+
+nav, footer, article, aside{
+    border: 2px solid #8D9EC6;
+    margin: 1rem;
+    border-radius: 10px;
+    padding: 1rem;
+    font-family: "Lucida Bright";
+    
+}
+section{
+    font-family: "Copperlate,Lucida Bright";
+    
+}
+
+article, aside{
+    width:40%;
+    display: inline-block;
+    height: 410px;
+    background-color: #353133;
+
+}
+
+nav, section, footer{
+    background-color: #ffffff;
+}
+p{color: beige;}
+
+a{ color: antiquewhite; size: 0rem;}
